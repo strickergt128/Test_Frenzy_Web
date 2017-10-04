@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="134749" started-at="2017-10-04T21:08:28Z" finished-at="2017-10-04T21:10:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="134749" started-at="2017-10-04T21:08:28Z" finished-at="2017-10-04T21:10:43Z">
+      <class name="Frenzy_Web.Footer">
+        <test-method status="PASS" signature="OpenBrowser()[pri:1, instance:Frenzy_Web.Footer@5ae63ade]" name="OpenBrowser" duration-ms="3845" started-at="2017-10-04T15:08:28Z" description="Abrir el navegador" finished-at="2017-10-04T15:08:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="Test_SignUp()[pri:2, instance:Frenzy_Web.Footer@5ae63ade]" name="Test_SignUp" duration-ms="9764" started-at="2017-10-04T15:08:32Z" description="Registrar a un usuario" finished-at="2017-10-04T15:08:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_SignUp -->
+        <test-method status="PASS" signature="LoginUser()[pri:3, instance:Frenzy_Web.Footer@5ae63ade]" name="LoginUser" duration-ms="2999" started-at="2017-10-04T15:08:41Z" description="Probar el Login con diferentes cuentas" finished-at="2017-10-04T15:08:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUser -->
+        <test-method status="PASS" signature="NavbarTest()[pri:4, instance:Frenzy_Web.Footer@5ae63ade]" name="NavbarTest" duration-ms="5742" started-at="2017-10-04T15:08:44Z" description="Test de Botones del Navbar" finished-at="2017-10-04T15:08:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavbarTest -->
+        <test-method status="PASS" signature="buttonsHome()[pri:5, instance:Frenzy_Web.Footer@5ae63ade]" name="buttonsHome" duration-ms="3292" started-at="2017-10-04T15:08:50Z" description="Test de Botones de la Pagina Principal:&#039;Go!&#039;,&#039;¿Donde Consigo El código de Promoción&#039; y &#039;¿Como gano y cambio Bits?&#039;" finished-at="2017-10-04T15:08:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buttonsHome -->
+        <test-method status="PASS" signature="Categorias_Test()[pri:6, instance:Frenzy_Web.Footer@5ae63ade]" name="Categorias_Test" duration-ms="28875" started-at="2017-10-04T15:08:54Z" description="Test de categorias, socios y paginas web de socios" finished-at="2017-10-04T15:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Categorias_Test -->
+        <test-method status="PASS" signature="QueEsFrenzy()[pri:7, instance:Frenzy_Web.Footer@5ae63ade]" name="QueEsFrenzy" duration-ms="4357" started-at="2017-10-04T15:09:22Z" description="Test Video de Frenzy" finished-at="2017-10-04T15:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QueEsFrenzy -->
+        <test-method status="PASS" signature="Bits_Test()[pri:8, instance:Frenzy_Web.Footer@5ae63ade]" name="Bits_Test" duration-ms="71195" started-at="2017-10-04T15:09:27Z" description="Test de Bits, Promociones y Botones" finished-at="2017-10-04T15:10:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bits_Test -->
+        <test-method status="PASS" signature="Premios_Test()[pri:9, instance:Frenzy_Web.Footer@5ae63ade]" name="Premios_Test" duration-ms="2922" started-at="2017-10-04T15:10:38Z" description="Test de Premios" finished-at="2017-10-04T15:10:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Premios_Test -->
+        <test-method status="PASS" signature="Buttons_PlayStore_and_AppStore()[pri:10, instance:Frenzy_Web.Footer@5ae63ade]" name="Buttons_PlayStore_and_AppStore" duration-ms="603" started-at="2017-10-04T15:10:41Z" description="Test de Botones de Google Play y AppStore" finished-at="2017-10-04T15:10:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Buttons_PlayStore_and_AppStore -->
+        <test-method status="PASS" signature="Footer_Test()[pri:11, instance:Frenzy_Web.Footer@5ae63ade]" name="Footer_Test" duration-ms="1121" started-at="2017-10-04T15:10:41Z" description="Test de los botones del footer" finished-at="2017-10-04T15:10:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Footer_Test -->
+      </class> <!-- Frenzy_Web.Footer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
