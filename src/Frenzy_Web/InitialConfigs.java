@@ -16,3 +16,4 @@ public class InitialConfigs {
 	driver.manage().window().maximize();
   }
 }
+

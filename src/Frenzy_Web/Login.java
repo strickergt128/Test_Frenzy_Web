@@ -6,6 +6,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+
 public class Login extends SignUp {
   @Test(testName="Login",description="Probar el Login con diferentes cuentas",priority=3)
   public void LoginUser() throws InterruptedException {

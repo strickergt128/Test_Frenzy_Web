@@ -6,6 +6,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+
 public class Navbar extends Login {
 	@Test(testName = "Test Navbar",description="Test de Botones del Navbar",priority=4)
 	  public void NavbarTest() throws InterruptedException {

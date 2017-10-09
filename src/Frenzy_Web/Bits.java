@@ -7,6 +7,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+
 public class Bits extends Que_Es_Frenzy {
 	@Test(testName = "Test Bits",description="Test de Bits, Promociones y Botones",priority=8)
 	  public void Bits_Test() throws InterruptedException {

@@ -8,6 +8,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+
 public class Categorias extends Test_Buttons_Home{
   @Test(testName = "Test Categoiras",description="Test de categorias, socios y paginas web de socios",priority=6)
   public void Categorias_Test() {

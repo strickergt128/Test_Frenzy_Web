@@ -2,7 +2,12 @@ package Frenzy_Web;
 
 import org.openqa.selenium.By;
 import org.testng.Assert;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
+
+import Reporter.JyperionListener;
+
+@Listeners(JyperionListener.class)
 
 public class Footer extends PlayStore_and_Appstore {
   @Test(testName="Test Footer",description="Test de los botones del footer",priority=11)

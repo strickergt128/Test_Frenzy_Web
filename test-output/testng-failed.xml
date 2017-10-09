@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="Frenzy_Web.Categorias">
+      <class name="Frenzy_Web.Footer">
         <methods>
-          <include name="Categorias_Test"/>
+          <include name="NavbarTest"/>
         </methods>
-      </class> <!-- Frenzy_Web.Categorias -->
+      </class> <!-- Frenzy_Web.Footer -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

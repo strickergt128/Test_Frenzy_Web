@@ -6,6 +6,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+
 public class Test_Buttons_Home extends Navbar {
 	@Test(testName = "Test Botones Home",description="Test de Botones de la Pagina Principal:'Go!','¿Donde Consigo El código de Promoción' y '¿Como gano y cambio Bits?'",priority=5)
 	public void buttonsHome() throws InterruptedException {

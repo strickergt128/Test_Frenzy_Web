@@ -6,6 +6,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+
 public class Que_Es_Frenzy extends Categorias {
 	@Test(testName = "Test Que Es Frenzy",description="Test Video de Frenzy",priority=7)
 	public void QueEsFrenzy() throws InterruptedException {
